@@ -1,7 +1,7 @@
 # Auto split sentences to Scapple
 ## Description:
 1. Copy 1 paragraph that you want to import into Scapple
-
+2. In the Scapple file, press Ctrl + Shift + s
 ## Text instructions:
 1. Right-Click on your desktop.
 
@@ -53,3 +53,6 @@ esc:: ExitApp
 8. Save the File.
 
 9. Double-click the file/icon in the desktop to run it.
+
+## Reference:
+https://www.autohotkey.com/docs/AutoHotkey.htm
